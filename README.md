@@ -1,4 +1,4 @@
-### This is not my Job Portfolio, this portfolio I only created for learning purposes
+## This portfolio is created solely for learning purposes and is not intended to represent my professional job portfolio.
 
 Basic Portfolio Website
 
